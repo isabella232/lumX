@@ -1,6 +1,5 @@
 {
   "name": "lumx",
-  "homepage": "https://material.angularjs.org",
   "version": "0.1.0",
   "main": "index.js",
   "repository": {
@@ -8,11 +7,9 @@
     "url": "git://github.com/ModusCreateOrg/lumX.git"
   },
   "peerDependencies": {
-    "angular": "latest",
-    "jquery": "latest",
-    "velocity": "latest",
-    "moment": "latest",
-    "bourbon": "latest",
-    "mdi": "latest"
+    "angular": "*",
+    "jquery": "*",
+    "velocity": "*",
+    "moment": "*"
   }
 }
