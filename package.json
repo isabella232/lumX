@@ -1,7 +1,8 @@
 {
   "name": "lumx",
   "version": "0.1.0",
-  "main": "./dist/lumx.js",
+  "main": ["./dist/lumx.js", "./dist/lumx.css"],
+  "format": "global",
   "repository": {
     "type": "git",
     "url": "git://github.com/ModusCreateOrg/lumX.git"
