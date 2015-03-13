@@ -12,7 +12,7 @@
     "dependencies": {
       "angular": "*",
       "jquery": "*",
-      "velocity-animate": "*",
+      "github:velocity-animate": "*",
       "moment": "*"
     }
   }
